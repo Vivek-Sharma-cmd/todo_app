@@ -1,4 +1,4 @@
-# todo_app
+# Todo_App
 
 This is my first flutter project for learning and understanding,
 how to code in Flutter and make awesome UI's.
