@@ -1,6 +1,9 @@
 # todo_app
 
+This is my first flutter project for learning and understanding,
+how to code in Flutter and make awesome UI's.
 A new Flutter project.
+This is just a simple TodoApp Project, its not been connected to the Database.
 
 ## Getting Started
 
